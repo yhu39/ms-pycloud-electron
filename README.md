@@ -1,4 +1,4 @@
-# ms-pycloud-electron
+# MS-PyCloud
 
 ## Manuscript Status
 
