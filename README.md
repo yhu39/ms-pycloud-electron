@@ -4,9 +4,7 @@
 
 The manuscript for **ms-pycloud** is currently under revision. We are working diligently to finalize the content and will release the official version as soon as possible.
 
-## Demo Version
-
-If you are interested in exploring a demo version of **ms-pycloud**, we are happy to provide access. Please request a demo by sending an email to [yhu39@jhmi.edu](mailto:yhu39@jhmi.edu).
+Please submit a request by sending an email to [yhu39@jhmi.edu](mailto:yhu39@jhmi.edu). We will send you download link when it is ready.
 
 ## Preprint and Software
 
